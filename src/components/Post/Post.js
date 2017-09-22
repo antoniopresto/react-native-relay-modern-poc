@@ -43,6 +43,7 @@ export const Post = createFragmentContainer(
 const style = StyleSheet.create({
   post: {
     backgroundColor: white,
+    borderRadius: 5,
     padding: 5,
   },
 });
